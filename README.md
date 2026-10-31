@@ -8,7 +8,7 @@ Equalizer APO and graphic EQs.
 
 ## Download
 
-**[Download PureEQ 1.5.3 (APK)](https://github.com/srinidhibhat45/pureeq-updates/releases/latest/download/PureEQ.apk)**
+**[Download PureEQ 1.6.0 (APK)](https://github.com/srinidhibhat45/pureeq-updates/releases/latest/download/PureEQ.apk)**
 
 This link always gives the newest version. Release notes and earlier versions are under
 [Releases](https://github.com/srinidhibhat45/pureeq-updates/releases).
